@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2518.86 1269.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: LinBiolinumO, 'Linux Biolinum O';
+        font-size: 200px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="145.58" y="267.46" width="1954.6" height="338.71"/>
+    </clipPath>
+  </defs>
+  <g class="cls-3">
+    <image width="472" height="112" transform="scale(4.48 5.19)" xlink:href="../../../../../../mnu076_dr_indexbase_0.png"/>
+    <polygon class="cls-1" points="0 0 2115.03 0 2518.86 1269.91 403.83 1269.91 0 0"/>
+  </g>
+  <text class="cls-2" transform="translate(922.11 471.15)"><tspan x="0" y="0">REX</tspan></text>
+</svg>
